@@ -1,2 +1,2 @@
 # mini_ml_kernels
-Getting deeper into ML systems
+ML kernels built and optimized from scratch.
